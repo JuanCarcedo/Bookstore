@@ -129,4 +129,4 @@ Delete book (option 3):
 
 ## Author and Licence
 **[Juan Carcedo](https://github.com/JuanCarcedo)**  
-2022 Copyright © - Licence [MIT](https://github.com/JuanCarcedo/Bookstore/blob/main/LICENSE.txt)
+2022 Copyright © - Licence [MIT](https://github.com/JuanCarcedo/Bookstore/blob/main/LICENSE)
