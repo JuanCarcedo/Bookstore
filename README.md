@@ -5,7 +5,7 @@ Using my pre-coded class ```db_manager.py```, the interactions between database 
 Note that tabulate is used to provide a clear and defined output.
 
 ## Instructions
-- Create a Fork of the repository (you can access all projects).
+- Create a Fork of the repository.
 - Open your favourite IDE (I use [PyCharm](https://www.jetbrains.com/pycharm/)).
 - Check the ***[requirements.txt](https://github.com/JuanCarcedo/jca-python-projects/blob/main/requirements.txt)*** file.  
   - For this project you will need:
